@@ -11,6 +11,6 @@ Frontend: Vanilla HTML, CSS, JavaScript
 Architecture: Static site with client-side processing
 
 /* SITE */
-Last update: 2026-01-11
+Last update: 2026-02-08
 Language: English
 Standards: HTML5, CSS3, ES Modules

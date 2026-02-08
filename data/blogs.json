@@ -1,46 +1,46 @@
 {
-  "blogConfig": {
-    "siteName": "HEIC to JPG Blog",
-    "siteUrl": "https://heicfast.com/blog",
-    "description": "Expert guides, tutorials, and tips for converting and managing HEIC image files on Windows, Mac, and mobile devices.",
-    "postsPerPage": 12,
-    "language": "en-US"
-  },
-  "categories": [
-    {
-      "id": "tutorials",
-      "name": "Tutorials",
-      "slug": "tutorials",
-      "description": "Step-by-step guides for HEIC conversion and image management"
+    "blogConfig": {
+        "siteName": "HEIC to JPG Blog",
+        "siteUrl": "https://heicfast.com/blog",
+        "description": "Expert guides, tutorials, and tips for converting and managing HEIC image files on Windows, Mac, and mobile devices.",
+        "postsPerPage": 12,
+        "language": "en-US"
     },
-    {
-      "id": "windows",
-      "name": "Windows Guides",
-      "slug": "windows",
-      "description": "Windows-specific solutions for HEIC files"
-    },
-    {
-      "id": "troubleshooting",
-      "name": "Troubleshooting",
-      "slug": "troubleshooting",
-      "description": "Fix common HEIC issues and errors"
-    },
-    {
-      "id": "comparisons",
-      "name": "Format Comparisons",
-      "slug": "comparisons",
-      "description": "In-depth comparisons of image formats"
-    }
-  ],
-  "authors": [
-    {
-      "id": "heictojpg-team",
-      "name": "HEIC to JPG Team",
-      "bio": "Expert team dedicated to making HEIC conversion simple, fast, and private.",
-      "avatar": "/assets/images/authors/team-avatar.svg"
-    }
-  ],
-  "featuredPosts": [
-    "how-to-open-heic-on-windows-11"
-  ]
+    "categories": [
+        {
+            "id": "tutorials",
+            "name": "Tutorials",
+            "slug": "tutorials",
+            "description": "Step-by-step guides for HEIC conversion and image management"
+        },
+        {
+            "id": "windows",
+            "name": "Windows Guides",
+            "slug": "windows",
+            "description": "Windows-specific solutions for HEIC files"
+        },
+        {
+            "id": "troubleshooting",
+            "name": "Troubleshooting",
+            "slug": "troubleshooting",
+            "description": "Fix common HEIC issues and errors"
+        },
+        {
+            "id": "comparisons",
+            "name": "Format Comparisons",
+            "slug": "comparisons",
+            "description": "In-depth comparisons of image formats"
+        }
+    ],
+    "authors": [
+        {
+            "id": "umar-pathan",
+            "name": "Umar Pathan",
+            "bio": "Expert team dedicated to making HEIC conversion simple, fast, and private.",
+            "avatar": "/assets/images/authors/umar.svg"
+        }
+    ],
+    "featuredPosts": [
+        "how-to-open-heic-on-windows-11"
+    ]
 }

@@ -30,10 +30,10 @@ HEIC to JPG Converter is a free, browser-based tool that converts Apple's HEIC/H
 
 ## URLs
 
-- Homepage: https://heicfast.com/
-- About: https://heicfast.com/about.html
-- Privacy: https://heicfast.com/privacy.html
-- Terms: https://heicfast.com/terms.html
+- Homepage: https://heicfast.com
+- About: https://heicfast.com/about
+- Privacy: https://heicfast.com/privacy
+- Terms: https://heicfast.com/terms
 
 ## Contact
 

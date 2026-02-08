@@ -16,7 +16,7 @@
                 "privacy",
                 "image-conversion"
             ],
-            "author": "heictojpg-team",
+            "author": "umar-pathan",
             "publishedAt": "2026-02-08",
             "updatedAt": "2026-02-08",
             "readingTime": "8 min read",
@@ -50,7 +50,7 @@
                 },
                 {
                     "id": "summary-checklist",
-                    "title": "Summary Checklist for 2026"
+                    "title": "Summary Checklist"
                 }
             ],
             "seo": {
@@ -60,7 +60,7 @@
                     "free HEVC extension",
                     "HEIC converter privacy"
                 ],
-                "canonicalUrl": "https://heicfast.com/blog/how-to-open-heic-on-windows-11.html"
+                "canonicalUrl": "https://heicfast.com/blog/how-to-open-heic-on-windows-11"
             },
             "schema": {
                 "type": [
