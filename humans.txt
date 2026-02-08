@@ -2,7 +2,7 @@
 Developer: Umar Pathan
 Role: Engineer
 Location: India
-Site: https://heictojpg.pics
+Site: https://heicfast.com
 
 /* TECHNOLOGY */
 Platform: Cloudflare Pages

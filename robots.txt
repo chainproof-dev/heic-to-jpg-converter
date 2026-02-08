@@ -1,4 +1,4 @@
-# robots.txt for heictojpg.pics
+# robots.txt for heicfast.com
 # HEIC to JPG Converter - Free Online Image Conversion Tool
 
 # Allow all search engine crawlers
@@ -16,7 +16,7 @@ Disallow: /*.json$
 Allow: /assets/css/
 
 # Sitemap location
-Sitemap: https://heictojpg.pics/sitemap.xml
+Sitemap: https://heicfast.com/sitemap.xml
 
 # Crawl-delay (optional, be nice to crawlers)
 Crawl-delay: 1

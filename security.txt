@@ -1,4 +1,4 @@
-Contact: mailto:security@heictojpg.pics
+Contact: mailto:security@heicfast.com
 Expires: 2027-01-11T00:00:00.000Z
 Preferred-Languages: en
-Canonical: https://heictojpg.pics/.well-known/security.txt
+Canonical: https://heicfast.com/.well-known/security.txt

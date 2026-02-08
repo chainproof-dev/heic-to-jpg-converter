@@ -1,0 +1,11 @@
+{
+    "name": "HEIC to JPG Converter",
+    "description": "HEIC to JPG Converter",
+    "version": "1.0.0",
+    "author": "Umar Pathan",
+    "url": "https://heicfast.com",
+    "icon": "/favicon.ico",
+    "devtools": {
+        "enabled": true
+    }
+}

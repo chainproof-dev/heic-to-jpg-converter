@@ -50,7 +50,7 @@ export default {
                             'GET /health': 'Health check',
                             'GET /options': 'Available conversion options'
                         },
-                        documentation: 'https://heictojpg.pics/api/docs'
+                        documentation: 'https://heicfast.com/api/docs'
                     }, 200, env);
 
                 // 404 for unknown routes
