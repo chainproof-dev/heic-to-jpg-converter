@@ -1,0 +1,10 @@
+# Force HTTPS (Global)
+http://* https://:splat 301
+
+# GLOBAL: Remove trailing slashes from ALL paths
+# Matches /samples/, /blog/, /about/ -> Redirects to /samples, /blog, /about
+/*/ /:splat 301
+
+# GLOBAL: Redirect .html to clean URLs
+# Matches /samples.html -> Redirects to /samples
+/*.html /:splat 301
