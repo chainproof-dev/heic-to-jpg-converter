@@ -1,0 +1,312 @@
+{
+  "generated_at": "2026-02-08T07:44:16.165227",
+  "total_images": 16,
+  "total_size_bytes": 21438911,
+  "images": [
+    {
+      "id": "regolith_samples",
+      "original_name": "Regolith Samples 1.HEIC",
+      "filename": "regolith-samples.heic",
+      "title": "Regolith Samples",
+      "description": "Abstract textured surface sample with natural patterns",
+      "category": "abstract",
+      "file_size_bytes": 1975837,
+      "file_size_formatted": "1.88 MB",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "fingerprints": {
+        "md5": "143e790d827182beed15ab0df4eaa9aa",
+        "sha256": "4b187c7e1da43ff9b781cdae6ac42be9d587b0b7b8873891922724d34a157181"
+      },
+      "download_path": "/samples/images/regolith-samples.heic"
+    },
+    {
+      "id": "alpha_transparency_test",
+      "original_name": "alpha_1440x960.heic",
+      "filename": "alpha-transparency-test.heic",
+      "title": "Alpha Transparency Test",
+      "description": "HEIC image with alpha channel transparency",
+      "category": "technical",
+      "file_size_bytes": 443075,
+      "file_size_formatted": "432.69 KB",
+      "resolution": {
+        "width": 1440,
+        "height": 960
+      },
+      "fingerprints": {
+        "md5": "dc9d22563b0d0068966064e606718d75",
+        "sha256": "4dbbf50e1a0178261c46781bd764626fc75bf11549e744204c68ef212755c4c1"
+      },
+      "download_path": "/samples/images/alpha-transparency-test.heic"
+    },
+    {
+      "id": "chef_with_trumpet",
+      "original_name": "chef-with-trumpet.heic",
+      "filename": "chef-with-trumpet.heic",
+      "title": "Chef with Trumpet",
+      "description": "Artistic photo of a chef figurine holding a trumpet",
+      "category": "artistic",
+      "file_size_bytes": 1618040,
+      "file_size_formatted": "1.54 MB",
+      "resolution": {
+        "width": 4032,
+        "height": 3024
+      },
+      "fingerprints": {
+        "md5": "022f2c009f66978d1ba083e18b8eb691",
+        "sha256": "7c331207b67f159177675c8b2760ad6035a8dada04c12ed7f878d1c50120a9c7"
+      },
+      "download_path": "/samples/images/chef-with-trumpet.heic"
+    },
+    {
+      "id": "childrens_theater_show",
+      "original_name": "childrens-show-theater.heic",
+      "filename": "childrens-theater-show.heic",
+      "title": "Children's Theater Show",
+      "description": "Live performance at a children's theater venue",
+      "category": "events",
+      "file_size_bytes": 1332170,
+      "file_size_formatted": "1.27 MB",
+      "resolution": {
+        "width": 4032,
+        "height": 3024
+      },
+      "fingerprints": {
+        "md5": "5ec94b19184acacf316a73cd0bc4fe2e",
+        "sha256": "8221a26df520b6e571818aeb1608ab7112e170be58cbe362de8ced107000b1eb"
+      },
+      "download_path": "/samples/images/childrens-theater-show.heic"
+    },
+    {
+      "id": "classic_vintage_car",
+      "original_name": "classic-car.heic",
+      "filename": "classic-vintage-car.heic",
+      "title": "Classic Vintage Car",
+      "description": "Beautifully preserved classic automobile",
+      "category": "vehicles",
+      "file_size_bytes": 1960764,
+      "file_size_formatted": "1.87 MB",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "fingerprints": {
+        "md5": "4c1aec701f97b66e756cbc44b8306efe",
+        "sha256": "8e2a5725aa7639678a0c10d25e1211981d81c0d94062db51e99dc002ce6ff349"
+      },
+      "download_path": "/samples/images/classic-vintage-car.heic"
+    },
+    {
+      "id": "greyhounds_restaurant",
+      "original_name": "greyhounds-looking-for-a-table.heic",
+      "filename": "greyhounds-restaurant.heic",
+      "title": "Greyhounds at Restaurant",
+      "description": "Elegant greyhound dogs looking for a table",
+      "category": "animals",
+      "file_size_bytes": 1721433,
+      "file_size_formatted": "1.64 MB",
+      "resolution": {
+        "width": 3024,
+        "height": 4032
+      },
+      "fingerprints": {
+        "md5": "945c312ea398c4ab12299dda6d2b06f2",
+        "sha256": "65960bf2782cd8ebd29a958e75b6adb7dff2bbff841389e869d917438c729010"
+      },
+      "download_path": "/samples/images/greyhounds-restaurant.heic"
+    },
+    {
+      "id": "grid_pattern_test",
+      "original_name": "grid_960x640.heic",
+      "filename": "grid-pattern-test.heic",
+      "title": "Grid Pattern Test",
+      "description": "Technical grid pattern for testing image rendering",
+      "category": "technical",
+      "file_size_bytes": 97342,
+      "file_size_formatted": "95.06 KB",
+      "resolution": {
+        "width": 960,
+        "height": 640
+      },
+      "fingerprints": {
+        "md5": "0907b0f97c41e8d3615075e1e6b16974",
+        "sha256": "e4aba270a555c1b4dc9773e2aef3a2b0888c6e7460b5f33b30d6a28ae9cb0d8a"
+      },
+      "download_path": "/samples/images/grid-pattern-test.heic"
+    },
+    {
+      "id": "sample_image_01",
+      "original_name": "image1.heic",
+      "filename": "sample-image-01.heic",
+      "title": "Sample Image 01",
+      "description": "High-quality HEIC sample photograph",
+      "category": "samples",
+      "file_size_bytes": 2994394,
+      "file_size_formatted": "2.86 MB",
+      "resolution": {
+        "width": 3992,
+        "height": 2992
+      },
+      "fingerprints": {
+        "md5": "9835f7aa1198532d0b538aafefa2c789",
+        "sha256": "335699d7ba7b4b4581aed0d995aefa57ef1e6771b66595719768cd313fa2430c"
+      },
+      "download_path": "/samples/images/sample-image-01.heic"
+    },
+    {
+      "id": "sample_image_02",
+      "original_name": "image2.heic",
+      "filename": "sample-image-02.heic",
+      "title": "Sample Image 02",
+      "description": "High-quality HEIC sample photograph",
+      "category": "samples",
+      "file_size_bytes": 2540019,
+      "file_size_formatted": "2.42 MB",
+      "resolution": {
+        "width": 3464,
+        "height": 2130
+      },
+      "fingerprints": {
+        "md5": "bbcb232191c8747a31e07cbf72788944",
+        "sha256": "3ca296eaa15c4dd912a6e0dd76ce3bc9cbe80a61e570043b00ecfaba4d70d6a6"
+      },
+      "download_path": "/samples/images/sample-image-02.heic"
+    },
+    {
+      "id": "sample_image_03",
+      "original_name": "image3.heic",
+      "filename": "sample-image-03.heic",
+      "title": "Sample Image 03",
+      "description": "High-quality HEIC sample photograph",
+      "category": "samples",
+      "file_size_bytes": 1148790,
+      "file_size_formatted": "1.10 MB",
+      "resolution": {
+        "width": 4242,
+        "height": 2828
+      },
+      "fingerprints": {
+        "md5": "9409f2bab4765388c74c063c4ffe2d64",
+        "sha256": "85b3098fb5b0f364958c0e18a5ec13ddde5369826db936021dfa909a3a85b46a"
+      },
+      "download_path": "/samples/images/sample-image-03.heic"
+    },
+    {
+      "id": "overlay_composition_test",
+      "original_name": "overlay_1000x680.heic",
+      "filename": "overlay-composition-test.heic",
+      "title": "Overlay Composition Test",
+      "description": "HEIC image with overlay composition layers",
+      "category": "technical",
+      "file_size_bytes": 97364,
+      "file_size_formatted": "95.08 KB",
+      "resolution": {
+        "width": 1000,
+        "height": 680
+      },
+      "fingerprints": {
+        "md5": "df3747eea2a8215dcfdb06b2375165b1",
+        "sha256": "c304ec0aca1cd33861cb174dec0a91364a865c7bd4bc2f72f457f9c6d86bb873"
+      },
+      "download_path": "/samples/images/overlay-composition-test.heic"
+    },
+    {
+      "id": "random_collection",
+      "original_name": "random_collection_1440x960.heic",
+      "filename": "random-collection.heic",
+      "title": "Random Collection",
+      "description": "Curated collection of random visual elements",
+      "category": "artistic",
+      "file_size_bytes": 458669,
+      "file_size_formatted": "447.92 KB",
+      "resolution": {
+        "width": 1440,
+        "height": 960
+      },
+      "fingerprints": {
+        "md5": "0359e432b6b748d8f3f0df762b622243",
+        "sha256": "b4f8d0380e88e7d93b315e351ade5ae4ff349876d5b2b09aec6903ffd2f687ae"
+      },
+      "download_path": "/samples/images/random-collection.heic"
+    },
+    {
+      "id": "seasonal_collection",
+      "original_name": "season_collection_1440x960.heic",
+      "filename": "seasonal-collection.heic",
+      "title": "Seasonal Collection",
+      "description": "Seasonal themed visual collection",
+      "category": "artistic",
+      "file_size_bytes": 793271,
+      "file_size_formatted": "774.68 KB",
+      "resolution": {
+        "width": 1440,
+        "height": 960
+      },
+      "fingerprints": {
+        "md5": "c0fdd7c42b006f7c3d5a8642fad3cd35",
+        "sha256": "e322991f877ea9340f6f01b76947b5013b437709ef2f7cd9391368e769112077"
+      },
+      "download_path": "/samples/images/seasonal-collection.heic"
+    },
+    {
+      "id": "sewing_threads_colorful",
+      "original_name": "sewing-threads.heic",
+      "filename": "sewing-threads-colorful.heic",
+      "title": "Colorful Sewing Threads",
+      "description": "Vibrant arrangement of colorful sewing threads",
+      "category": "objects",
+      "file_size_bytes": 1595244,
+      "file_size_formatted": "1.52 MB",
+      "resolution": {
+        "width": 4000,
+        "height": 3000
+      },
+      "fingerprints": {
+        "md5": "b2e73c2449294c631ea11590f6dcc8ec",
+        "sha256": "1b62f2f1969d4bc04bb3e8d094dbdd7c96a070a8692bb305c517c1a78357118b"
+      },
+      "download_path": "/samples/images/sewing-threads-colorful.heic"
+    },
+    {
+      "id": "christmas_decoration_shelf",
+      "original_name": "shelf-christmas-decoration.heic",
+      "filename": "christmas-decoration-shelf.heic",
+      "title": "Christmas Decoration Shelf",
+      "description": "Festive Christmas decorations arranged on a shelf",
+      "category": "holidays",
+      "file_size_bytes": 1442278,
+      "file_size_formatted": "1.38 MB",
+      "resolution": {
+        "width": 4000,
+        "height": 3000
+      },
+      "fingerprints": {
+        "md5": "7add2b5eb2f6127220ae02030a4bb06e",
+        "sha256": "fbb59e78fac17ab72331da3f4f650a0aade2e55159ab8ac4390899e297dc9f71"
+      },
+      "download_path": "/samples/images/christmas-decoration-shelf.heic"
+    },
+    {
+      "id": "audio_soundboard",
+      "original_name": "soundboard.heic",
+      "filename": "audio-soundboard.heic",
+      "title": "Audio Soundboard",
+      "description": "Professional audio mixing soundboard equipment",
+      "category": "technology",
+      "file_size_bytes": 1220221,
+      "file_size_formatted": "1.16 MB",
+      "resolution": {
+        "width": 3000,
+        "height": 4000
+      },
+      "fingerprints": {
+        "md5": "6c03a0abbd5088ffce4ac40e2b75c26e",
+        "sha256": "eca52795e2acb6123f40ef47b59611f1c4d20762bfff443ac929a47800a11a49"
+      },
+      "download_path": "/samples/images/audio-soundboard.heic"
+    }
+  ],
+  "total_size_formatted": "20.45 MB"
+}

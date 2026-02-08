@@ -1,0 +1,16 @@
+/* TEAM */
+Developer: Umar Pathan
+Role: Engineer
+Location: India
+Site: https://heictojpg.pics
+
+/* TECHNOLOGY */
+Platform: Cloudflare Pages
+Backend: WebAssembly (WASM)
+Frontend: Vanilla HTML, CSS, JavaScript
+Architecture: Static site with client-side processing
+
+/* SITE */
+Last update: 2026-01-11
+Language: English
+Standards: HTML5, CSS3, ES Modules

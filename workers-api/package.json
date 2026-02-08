@@ -1,0 +1,27 @@
+{
+    "name": "heic-to-jpg-api",
+    "version": "1.0.0",
+    "description": "HEIC to JPG conversion API for Cloudflare Workers",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "wrangler dev",
+        "deploy": "wrangler deploy",
+        "deploy:staging": "wrangler deploy --env staging",
+        "test": "wrangler dev --test-scheduled"
+    },
+    "keywords": [
+        "heic",
+        "jpg",
+        "jpeg",
+        "conversion",
+        "cloudflare-workers",
+        "wasm",
+        "webassembly"
+    ],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "wrangler": "^4.63.0"
+    }
+}

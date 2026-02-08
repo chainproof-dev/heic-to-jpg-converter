@@ -1,0 +1,63 @@
+# robots.txt for heictojpg.pics
+# HEIC to JPG Converter - Free Online Image Conversion Tool
+
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+
+# Allow JS for rendering (Critical for HEIC conversion and Gallery)
+Allow: /assets/js/
+
+# Disallow specific internal paths
+Disallow: /assets/wasm/
+Disallow: /*.json$
+
+# Allow CSS for rendering
+Allow: /assets/css/
+
+# Sitemap location
+Sitemap: https://heictojpg.pics/sitemap.xml
+
+# Crawl-delay (optional, be nice to crawlers)
+Crawl-delay: 1
+
+# Specific bot instructions
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+# Additional LLM/AI crawlers
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
